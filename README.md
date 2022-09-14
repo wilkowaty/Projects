@@ -7,3 +7,4 @@ My academic and extracurricular projects
 
 3. projectfactchecking.py - short project for university workshops. The dataset consist of text statements of American politicians, their party and other variables. Some of the statements were labeled as 'pants-fire' lies. The task was to construct a classification model, which would be able to detect those lies.
 
+4. Religious_forums.py - group project for python course. The objective was to make original analysis on some sort of forums from ...exchange.com group (same one as stackexchange.com). We choose to make geospacial analysis on religious forums to see how users are placed over the world according to their religion.
