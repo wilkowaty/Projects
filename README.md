@@ -8,3 +8,5 @@ My academic and extracurricular projects
 3. projectfactchecking.py - short project for university workshops. The dataset consist of text statements of American politicians, their party and other variables. Some of the statements were labeled as 'pants-fire' lies. The task was to construct a classification model, which would be able to detect those lies.
 
 4. Religious_forums.py - group project for python course. The objective was to make original analysis on some sort of forums from ...exchange.com group (same one as stackexchange.com). We choose to make geospacial analysis on religious forums to see how users are placed over the world according to their religion.
+
+5. Downloading_data.py and Magisterka.py are python scripts that I currently use and write for my Master's thesis about injury and performance prediction among football players using machine learning. Downloading_data.py is used for webscraping part of the data I need for my research. Magisterka.py is a file containing data exploration, cleaning and merging. Next on there are some models that I would like to develop further.
