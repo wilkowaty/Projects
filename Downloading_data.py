@@ -17,7 +17,8 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
 
-#dane o kontuzjach z transfermarktu
+#data about injuries from transfermarkt
+#based on the work of kaggle user, link https://www.kaggle.com/code/eliesemmel/kernelde4fae5abe/notebook
 
 headers = {'User-Agent': 
            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36'}
